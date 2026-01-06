@@ -1,0 +1,8 @@
+[package]
+name = "rust-zakatfitrah"
+version = "1.0.0"
+edition = "2024"
+authors = ["Gesang Paudra Jaya"]
+
+[dependencies]
+thousands = "0.2.0"
